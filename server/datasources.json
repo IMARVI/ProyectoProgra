@@ -1,0 +1,12 @@
+{
+  "mongodb": {
+    "host": "isaiasmarvi",
+    "port": 27017,
+    "url": "mongodb://isaiasmarvi:Mega123.@ds123956.mlab.com:23956/progra_avanzada",
+    "database": "weatherbot",
+    "password": "isaiasmarvi",
+    "name": "mongodb",
+    "user": "isaiasmarvi",
+    "connector": "mongodb"
+  }
+}
